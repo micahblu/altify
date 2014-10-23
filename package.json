@@ -1,0 +1,30 @@
+{
+  "name": "altify",
+  "version": "0.0.1",
+  "description": "Adds missing alt tags to images, gueses text from filename",
+  "main": "bin/altify",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micahblu/altify.git"
+  },
+  "keywords": [
+    "html",
+    "fix",
+    "html",
+    "seo",
+    "js",
+    "javascript"
+  ],
+  "author": "micahblu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahblu/altify/issues"
+  },
+  "homepage": "https://github.com/micahblu/altify"
+}
